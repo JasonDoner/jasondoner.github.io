@@ -1,7 +1,7 @@
 # 唐杰森的GitHub主页！
 ## Welcome to GitHub Pages
 
-Test: [test new page](https://github.com/JasonDoner/jasondoner.github.io/edit/master/newpagetest.md)
+Test: [test new page](https://github.com/JasonDoner/jasondoner.github.io/newpagetest.md)
 
 You can use the [editor on GitHub](https://github.com/JasonDoner/jasondoner.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
